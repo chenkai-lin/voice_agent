@@ -1,0 +1,9 @@
+INFO:     Started server process [33100]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+user_text:  Hi, Tommy of Joke.
+reply_text: 
+
+Well, well! Tommy of Joke? I see you're the brand's comedy division. What can I do for you today — are we here to deliver laughs or just accessorize the conversation? 🤵😄
+INFO:     127.0.0.1:60725 - "POST /chat/ HTTP/1.1" 200 OK
